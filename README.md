@@ -44,4 +44,4 @@ Key Insights
 
 * Ensemble models (Random Forest, Gradient Boosting) performed better than simple regression methods.
 
-Feature optimization and outlier management significantly improved prediction accuracy.
+* Feature optimization and outlier management significantly improved prediction accuracy.
